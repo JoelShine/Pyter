@@ -41,4 +41,6 @@ You need to have Python 3.5 or above to run this code. You also need to have PyQ
 ```python
 pip install PyQt5
 ```
-That's All. 
+That's All. I have created a release or executable of Pyter. Download from https://github.com/JoelShine/Pyter/releases
+
+Pyter executable download - [Download Pyter](https://github.com/JoelShine/Pyter/releases)
