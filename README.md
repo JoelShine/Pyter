@@ -28,3 +28,11 @@ def keyPressEvent(self, event):
         super().keyPressEvent(event)
 ```
 Above is a function in the **"Pyter.py"** file.
+
+Usage and installation
+----------------------
+You need to have Python 3.5 or above to run this code. You also need to have PyQt5, which can be installed through pip :
+```python
+pip install PyQt5
+```
+That's All. 
