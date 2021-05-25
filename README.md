@@ -4,9 +4,11 @@ The Ultimate Text Editor, with complete features including syntax highlighting a
 Currently, only supports writing, other features will be included shortly.
 
 <img src = "https://github.com/JoelShine/Pyter/blob/main/Pyter-screenshot.png">
+
 <p align="center">
-Screenshot of the Project
-        </p>
+        <b>Screenshot of the Project</b>
+</p>
+
 Code Structure
 --------------
 The **"syntax_pars.py"** contains the code for syntax higlighting. The autocomplete feature for brackets and single and double quotation marks is in the below peice of code :
