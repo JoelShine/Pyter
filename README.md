@@ -43,4 +43,4 @@ pip install PyQt5
 ```
 That's All. I have created a release or executable of Pyter. Download from https://github.com/JoelShine/Pyter/releases
 
-Pyter executable download - [Download Pyter](https://github.com/JoelShine/Pyter/releases)
+Pyter executable download - [Download Pyter](https://github.com/JoelShine/Pyter/releases/download/v0.2-alpha/Pyter.exe)
